@@ -31,9 +31,9 @@ a.disabled , a .disabled {
     border: 1px solid black;
     border-radius: 5px;
 }
-.promo {
-    font-weight: bold;
+.promo, .promo > span {
     color: gold;
+    font-weight: bold;
 }
 span > input {
     height: 25px;
